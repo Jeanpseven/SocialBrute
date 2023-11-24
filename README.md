@@ -5,10 +5,10 @@ SocialBox is a Bruteforce Attack Framework [ Facebook , Gmail , Instagram ,Twitt
 sudo apt-get install git
 git clone https://github.com/Jeanpseven/SocialBrute
 cd SocialBrute
-chmod +x SocialBrute.sh
+chmod +x SocialBox.sh
 chmod +x install-sb.sh
 ./install-sb.sh
-./SocialBrute.sh
+./SocialBox.sh
 ```
 # Screenshots :
 ![Test Image 8](https://raw.githubusercontent.com/TunisianEagles/SocialBox/master/Screenshots/sb.png)
